@@ -12,4 +12,4 @@ Michel, 32 ans, passionné de sociologie, communication, d'informatique et de to
 - 📫 Pour me contacter, il suffit d'envoyer un gentil mail à cette adresse : michel.figueres@gmail.com
 - ⚡ Fun fact : demande moi ce que tu veux sur les Pokémon, je suis incollable !
 
-<p style="text-center">Oui</p>
+<p class="text-center">Oui</p>
