@@ -4,6 +4,7 @@ Michel, 32 ans, passionné de sociologie, communication, d'informatique et de to
 
 - 🇺🇸 English speaker here !
 - 🇪🇸 Y el castellano tambien !
+</br>
 
 - 🔭 Diplômé du Titre Professionnel Concepteur Développeur d'applications Web (Niveau 6 - Bac+3)
 - 🌱 Avec un passé de communicant : je suis diplômé de l'ISCOM de Lyon avec un BTS Communication et me suis spécialisé dans la communication web !
