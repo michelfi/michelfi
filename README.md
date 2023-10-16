@@ -1,6 +1,6 @@
 ### Hey hey hey 👋
 
-Michel, 32 ans, passionné de sociologie, communication, d'informatique et de tout un tas de trucs.
+<strong>Michel</strong>, 32 ans, passionné de sociologie, communication, d'informatique et de tout un tas de trucs.
 
 - 🇺🇸 English speaker here !
 - 🇪🇸 Y el castellano tambien !
@@ -11,5 +11,3 @@ Michel, 32 ans, passionné de sociologie, communication, d'informatique et de to
 - 🤔 Je ne m'arrête pas là et je continue à travailler mes compétences en suivant des cours de Javascript, de Ruby et découvrir d'autres langages comme le Python !
 - 📫 Pour me contacter, il suffit d'envoyer un gentil mail à cette adresse : michel.figueres@gmail.com
 - ⚡ Fun fact : demande moi ce que tu veux sur les Pokémon, je suis incollable !
-
-<p class="text-center">Oui</p>
