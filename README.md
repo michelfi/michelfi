@@ -22,8 +22,9 @@
 ![sql.png](https://github.com/michelfi/michelfi/blob/bc1a8a0ffbb41ab8fe8ddf132ad22b0085d90e20/sql.png)
 ![heroku.png](https://github.com/michelfi/michelfi/blob/1fdac97b430759c0c65c4fd59c6019e68893196d/heroku.png)
 ![bootstrap.png](https://github.com/michelfi/michelfi/blob/1fdac97b430759c0c65c4fd59c6019e68893196d/icons8-bootstrap-64.png)
-
+</br>
 
 👏🏼 J'ai pu accomplir deux projets durant ma formation, que vous pouvez apercevoir dans mes pinned :
+
 - PokeBNB : une fake application de locations de Pokémon, basée sur la célèbre application AirBNB !
 - EasyRecruit : un site proposant de simplifier le process de recrutement en permettant la mise en ligne d'offres d'emploi, la réception de candidatures, la programmation de candidatures ainsi que le suivi !
