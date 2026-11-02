@@ -1,16 +1,8 @@
-### Hey hey hey 👋
-
-<strong>Michel</strong>, 32 ans, passionné de sociologie, communication, d'informatique et de tout un tas de trucs.
-
-- 🇺🇸 English speaker here !
-- 🇪🇸 El castellano tambien !
-</br>
 
 - 🔭 Diplômé du Titre Professionnel Concepteur Développeur d'applications Web (Niveau 6 - Bac+3) avec la formation de l'école Le Wagon
 - 🌱 Egalement diplômé de l'ISCOM de Lyon avec un BTS Communication avec une spécialité en communication web !
-- 🤔 Je ne m'arrête pas là et je continue à travailler mes compétences en suivant des cours de Javascript, de Ruby et découvrir d'autres langages comme le Python !
+- 🤔 En cours d'alternance pour le titre "Software Engineer" avec l'école Liora (ex-DataScientest)
 - 📫 Pour me contacter, il suffit d'envoyer un gentil mail à cette adresse : michel.figueres@gmail.com
-- ⚡ Fun fact : demande moi ce que tu veux sur les Pokémon, je suis incollable !
 </br>
 
 - 🛠 Et sinon, c'est quoi que je maîtrise ?
